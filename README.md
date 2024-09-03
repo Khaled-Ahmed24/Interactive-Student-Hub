@@ -10,7 +10,7 @@ A comprehensive Mobile application for students, providing easy access to lectur
 ## Demo
 
 Check out the live demo of the FCI College Portal to see it in action.
-- [Live Demo](https://example.com)
+- [Live Demo]([https://example.com](https://drive.google.com/drive/u/0/folders/1HmzwcxCoHAm8_EqvVno_3W_qt3hgGbI7))
 
 ## Installation
 
