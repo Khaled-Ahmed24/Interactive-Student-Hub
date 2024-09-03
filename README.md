@@ -22,7 +22,7 @@ Ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (version 20.x or higher)
 - [npm](https://www.npmjs.com/) (comes with Node.js) or [Yarn](https://yarnpkg.com/) (optional, but recommended)
-- Expo go app from [google play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=ar&pli=1) or [apple store](https://apps.apple.com/us/app/expo-go/id982107779)
+- Expo go app from [Google play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=ar&pli=1) or [Apple store](https://apps.apple.com/us/app/expo-go/id982107779)
 
 ### Getting Started
 
