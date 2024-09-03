@@ -29,13 +29,13 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/college-portal.git
+    git clone https://github.com/your-username/Interactive-Student-Hub.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd college-portal
+    cd Interactive-Student-Hub
     ```
 
 3. **Install dependencies:**
